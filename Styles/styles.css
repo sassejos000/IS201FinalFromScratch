@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    position: relative;
+}
+
+.header {
+    font-weight: bolder;
+    float: left;
+    width: 35%;
+    font-size: 20pt;
+}
+
+.rightmenu {
+    float: right;
+    width: 35%;
+    font-size: 18pt;
+}
+
+.mainbody {
+    font-size: 14pt;
+}
+
+.footer {
+    float: right; width: 50%;
+    margin: bottom 200px;
+}
